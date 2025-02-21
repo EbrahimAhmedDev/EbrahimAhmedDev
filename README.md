@@ -2,30 +2,19 @@
 
 Passionate about technology and programming.
 
-- 🔭 I’m currently looking for a **job opportunity**
-- 🌱 I’m currently learning **NextJs**
-- 🤝 I’m looking to collaborate on **Startups or projects**
-- ⚡ **Fun fact:** I always push my limits because I believe anything is possible if I try hard enough!
+- 🔭 Looking for Opportunities: Actively seeking exciting job opportunities where I can contribute and grow.
+- 🌱 Continuous Learning: Currently diving deep into Next.js to enhance my full-stack development skills.
+- 🤝 Collaboration: Open to collaborating on startups and innovative projects to build impactful solutions.
+- ⚡ Mindset: I constantly challenge myself because I believe nothing is impossible with dedication and effort! 🚀
 
 ## 📫 Connect with me:
 
-<!-- <table>
-  <tr>
-    <td>
-      <a href="mailto:www.hyma26@gmail.com">
-        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://www.linkedin.com/in/your-linkedin/">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-      </a>
-    </td>
-  </tr>
-</table> -->
-
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:www.hyma26@gmail.com)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin/)
+
+## 🧠 Problem Solving:
+
+[![CodeWars](https://img.shields.io/badge/CodeWars-B1361E?style=for-the-badge&logo=codewars&logoColor=white)](https://www.codewars.com/users/Ebrahim26)
 
 ## 🚀 Languages and Tools:
 
