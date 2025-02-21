@@ -9,13 +9,19 @@ Passionate about technology and programming.
 
 ## 📫 Connect with me:
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=ebrahim.a77med@gmail.com) 
-</br>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ebrahim-a77med/)
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=ebrahim.a77med@gmail.com" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+<a href="https://www.linkedin.com/in/your-linkedin/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
 
 ## 🧠 Problem Solving:
 
-[![CodeWars](https://img.shields.io/badge/CodeWars-B1361E?style=for-the-badge&logo=codewars&logoColor=white)](https://www.codewars.com/users/Ebrahim26)
+<a href="https://www.codewars.com/users/Ebrahim26" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/CodeWars-B1361E?style=for-the-badge&logo=codewars&logoColor=white" alt="CodeWars"/>
+</a>
 
 ## 🚀 Languages and Tools:
 
