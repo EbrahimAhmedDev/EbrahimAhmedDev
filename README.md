@@ -40,7 +40,7 @@ it keeps me sharp on the fundamentals.
 | [**auto-complete**](https://github.com/EbrahimAhmedDev/auto-complete) | NLP autocomplete system — train it on your own text files and get next-word suggestions while typing. | Python · NLP · Streamlit |
 | [**Todo-List**](https://github.com/EbrahimAhmedDev/Todo-List) | Task manager with add/edit/delete/filter, dialog-driven UI, UUID keys and LocalStorage persistence. | React · Vite · MUI |
 
-<sub>Also: <a href="https://github.com/EbrahimAhmedDev/Egypt-Prayer-Time">Egypt-Prayer-Time</a> · <a href="https://github.com/EbrahimAhmedDev/FawryExam">FawryExam</a> (Java) · <a href="https://github.com/EbrahimAhmedDev/Food-Ordaring">Food-Ordaring</a> (Prolog) · <a href="https://github.com/EbrahimAhmedDev/Stride">Stride</a></sub>
+<sub>Also: <a href="https://github.com/EbrahimAhmedDev/Egypt-Prayer-Time">Egypt-Prayer-Time</a> · <a href="https://github.com/EbrahimAhmedDev/FawryExam">FawryExam</a> (Java) · <a href="https://github.com/EbrahimAhmedDev/Food-Ordaring">Food-Ordaring</a> (Prolog) · <a href="https://github.com/EbrahimAhmedDev/Pepsi-Tailwind">Pepsi-Tailwind</a></sub>
 
 ---
 
@@ -74,24 +74,21 @@ it keeps me sharp on the fundamentals.
 
 ---
 
-### // trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=EbrahimAhmedDev&theme=onestar&row=1&column=7&margin-w=8&no-frame=false" alt="GitHub trophies">
-</p>
-
----
-
 ### // stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=EbrahimAhmedDev&show_icons=true&include_all_commits=true&hide_border=true&border_radius=8&theme=transparent" alt="GitHub stats">
-  <img height="165" src="https://streak-stats.demolab.com?user=EbrahimAhmedDev&hide_border=true&border_radius=8&theme=transparent" alt="GitHub streak">
+  <img src="https://streak-stats.demolab.com?user=EbrahimAhmedDev&hide_border=true&border_radius=8&theme=transparent&background=00000000" alt="GitHub streak">
 </p>
 
 <p align="center">
-  <img height="145" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EbrahimAhmedDev&layout=compact&langs_count=6&hide_border=true&border_radius=8&theme=transparent" alt="Top languages">
-  <img height="145" src="https://github-readme-activity-graph.vercel.app/graph?username=EbrahimAhmedDev&hide_border=true&radius=16&bg_color=00000000&color=8b949e&line=6e40c9&point=2a88f5&area=true&area_color=6e40c90f" alt="Contribution graph">
+  <img src="https://ghchart.rshah.org/2e8b57/EbrahimAhmedDev" alt="Contribution graph">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/EbrahimAhmedDev?style=flat-square&label=Followers&color=8b949e" alt="Followers">
+  <img src="https://img.shields.io/github/last-commit/EbrahimAhmedDev/EbrahimAhmedDev?style=flat-square&label=Last%20commit&color=8b949e" alt="Last commit">
+  <img src="https://img.shields.io/github/languages/code-size/EbrahimAhmedDev/YT-Loader?style=flat-square&label=YT-Loader%20size&color=8b949e" alt="YT-Loader code size">
+  <img src="https://komarev.com/ghpvc/?username=EbrahimAhmedDev&style=flat-square&color=8b949e&label=profile+views" alt="Profile views">
 </p>
 
 ---
@@ -129,5 +126,5 @@ it keeps me sharp on the fundamentals.
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation">
+  <img src="https://raw.githubusercontent.com/EbrahimAhmedDev/EbrahimAhmedDev/output/github-contribution-grid-snake-dark.svg" alt="Snake animation">
 </p>
